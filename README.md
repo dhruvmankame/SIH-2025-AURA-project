@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AURA Banner](https://img.shields.io/badge/SIH-Grand%20Finale%202024-blue?style=for-the-badge)
+![AURA Banner](https://img.shields.io/badge/SIH-Grand%20Finale%202025-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.10+-green?style=for-the-badge&logo=python)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)
 ![Django](https://img.shields.io/badge/Django-REST-092E20?style=for-the-badge&logo=django)
@@ -252,7 +252,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 <div align="center">
 
-**Built with ❤️ for SIH 2024**
+**Built with ❤️ for SIH 2025**
 
 *Silence the Noise. Confirm the Breach.*
 
